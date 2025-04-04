@@ -1,4 +1,4 @@
-# Sales Duo Assignment 
+# React.js and Ant Design based dashboard.
 Developed a dynamic Responsive and interactive Admin panel as asked in asignment
 live here : https://vibrant-kirch-04c981.netlify.app/
 ## Features
